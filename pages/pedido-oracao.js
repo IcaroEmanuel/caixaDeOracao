@@ -39,10 +39,8 @@ const PedidosOracao = () => {
       <PageTitle title='Pedidos de Oração' />
       <h1 className='text-center font-bold my-4 text-2xl'>Pedidos de Oração</h1>
       <p className='text-center'>
-        Com o intuito de facilitar os pedidos de oração que antes eram anotados em um papel e despositados na caixinha de oração
-        durante a reunião <br /> de oração do Grupo Luz da Fé / Condeúba-Ba, desenvolvemos o site Caixinha de Oração. <br />
-        Por aqui você enviar seus pedidos, sem precisar sair de casa, consulte a aba <Link href='/sobre'><a>Sobre</a></Link>
-        {' '}para entender mais sobre a inspiração do projeto.
+        Clique no botão abaixo para fazer seu pedido de oração. <br />
+        Todos os pedidos serão enviados para os servos do ministério de intercessão do GO LUZ DA FÉ.
       </p>
       {
         !sucess &&
