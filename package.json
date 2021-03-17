@@ -1,0 +1,25 @@
+{
+  "name": "caixadeoracao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "author": "Icaro Emanuel",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "google-spreadsheet": "^3.1.15",
+    "next": "^10.0.8",
+    "postcss-import": "^14.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "swr": "^0.5.3",
+    "tailwindcss": "^2.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
