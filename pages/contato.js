@@ -1,9 +1,11 @@
 import React from 'react'
 import Link from 'next/link'
+import PageTitle from '../components/pageTitle'
 
 const Contato = () => {
   return (
     <div>
+      <PageTitle title='Pedidos de Oração' />
       <h1>Em desenvolvimento...</h1>
     </div>
   )
