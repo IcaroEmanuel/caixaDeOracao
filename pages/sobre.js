@@ -5,7 +5,7 @@ import PageTitle from '../components/pageTitle'
 const Sobre = () => {
   return (
     <div>
-      <PageTitle title='Pedidos de Oração' />
+      <PageTitle title='Sobre' />
       <h1>Em desenvolvimento...</h1>
     </div>
   )
