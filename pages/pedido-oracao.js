@@ -34,6 +34,7 @@ const PedidosOracao = () => {
     }))
   }
 
+  //component
   return (
     <div className='mt-12 mb-12 text-xl'>
       <PageTitle title='Pedidos de Oração' />
