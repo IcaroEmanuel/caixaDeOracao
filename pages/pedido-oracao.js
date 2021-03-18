@@ -35,7 +35,7 @@ const PedidosOracao = () => {
   }
 
   return (
-    <div className=' mt-12 mb-12 text-xl'>
+    <div className='mt-12 mb-12 text-xl'>
       <PageTitle title='Pedidos de Oração' />
       <h1 className='text-center font-bold my-4 text-2xl'>Pedidos de Oração</h1>
       <p className='text-center'>
@@ -44,7 +44,7 @@ const PedidosOracao = () => {
       </p>
       {
         !sucess &&
-        <div className='w-1/5 mx-auto mt-6'>
+        <div className='mx-auto mt-6'>
           <label className='font-bold'>
             Nome: <br />
             <p className='text-base'>Caso não queira identificar-se, deixar o nome em branco</p>
